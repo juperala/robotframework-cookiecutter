@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Tests for ${cookiecutter.project_name}
+Documentation       Tests for {{cookiecutter.project_name}}
 Library           ../resource/common.robot
 
 *** Variables ***

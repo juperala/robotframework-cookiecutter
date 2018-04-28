@@ -1,9 +1,9 @@
 *** Settings ***
-Documentation     Reusable keywords and variables for ${cookiecutter.project_name}.
+Documentation     Reusable keywords and variables for {{cookiecutter.project_name}}.
 Library           SeleniumLibrary
 
 *** Variables ***
-${SERVER}         localhost:7272
+${SERVER}         google.com
 ${BROWSER}        Firefox
 ${BASE_URL}       http://${SERVER}/
 ${APP_TITLE}      Your app title here
