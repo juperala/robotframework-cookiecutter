@@ -3,7 +3,7 @@ Cookiecutter template for creating clean Robot Framework project.
 
 ## Usage
 
-The cookiecutter creates clean test project template for web application testing with Robot Framework and SeleniumLibrary.
+This [cookiecutter](https://github.com/audreyr/cookiecutter) template creates clean test project for web application testing with Robot Framework and SeleniumLibrary.
 
 If you do not have cookiecutter installed, install it via Python PIP:
 
